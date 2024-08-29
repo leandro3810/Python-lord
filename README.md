@@ -574,3 +574,4 @@ FodyWeavers.xsd
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
+Python lord.pyproj
