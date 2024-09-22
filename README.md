@@ -2,21 +2,14 @@ Meu nome e Leandro
 quero aprender mais sobre programação 
 from io import IncrementalNewlineDecoder
 from optparse import IndentedHelpFormatter
-from socket import J1939_NLA_PAD, J1939_NO_ADDR, J1939_NO_NAME, J1939_NO_PGN, J1939_PGN_ADDRESS_CLAIMED, J1939_PGN_ADDRESS_COMMANDED, J1939_PGN_MAX, J1939_PGN_REQUEST
+from socket import J1939_NLA_PAD,
 from tkinter import PROJECTING
 from xml.dom import xmlbuilder
 from xml.etree.ElementTree import fromstring
 from xml.sax.saxutils import XMLGenerator
 
 "CLASS-PROJECTING" 
-("Classtesto"): (class)XMLGenerator; # type: ignore
-
-
-property ("Meu jogos");
-
-#("Estali meu jogo nesse programa");(J1939_NO_NAME);
-
-#("Estali meu jogo nesse programa");(J1939_NO_ADDR);
+("Classtesto"): (class)XMLGenerator; # type: igno;
 
 #("x = 1 Altura - lagura do quadrado");
 
