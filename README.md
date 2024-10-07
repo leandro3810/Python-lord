@@ -1,5 +1,6 @@
-Meu nome e Leandro 
-quero aprender mais sobre programação 
+Meu nome e Leandro Ribeiro Gomes
+Quero aprender mais sobre programação. 
+Como faço para contruir um projeto.
 from io import IncrementalNewlineDecoder
 from optparse import IndentedHelpFormatter
 from socket import J1939_NLA_PAD,
